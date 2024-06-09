@@ -15,7 +15,3 @@ download_file https://mediafilez.forgecdn.net/files/5191/312/MMC4_Forge_1.20.1_v
 unzip MMC4.zip
 say MMC4 instalado!
 sleep 3
-
-:button instalar_Forge_47_2_6
-text Instalar Forge 47.2.6
-run sh install_forge_47_2_6.sh

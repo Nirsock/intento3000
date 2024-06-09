@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-FORGE_VERSION="47.2.17"
+FORGE_VERSION="47.2.6"
 MINECRAFT_VERSION="1.20.1"
 FORGE_INSTALLER="forge-${MINECRAFT_VERSION}-${FORGE_VERSION}-installer.jar"
 SERVER_DIR="/workspaces/intento3000/servidor_minecraft"
